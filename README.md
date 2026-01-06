@@ -9,6 +9,7 @@ I am Bhargav, An Computer Science Engineer with an Year of Exepericence.
 - I have Strong Knowledge in Python
 - I am familier with the DataStructures and algorithms in Python,
 - Worked on Mysql, Jquery in a project,
+- Worked on Concepts of OpenVPN
 - I have Knowledge on Django, admin pages and their working and API's creation using Django or RestAPI's
 - I have also worked on the OpenVPN certificate generation and their working.
 
