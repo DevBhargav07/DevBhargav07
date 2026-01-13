@@ -1,22 +1,40 @@
-## Hi there 👋
+Hi there 👋
 
-I am Bhargav, An Computer Science Engineer with an Year of Exepericence.
+I’m Bhargav, a Computer Science Engineer with 1 year of professional experience in backend development and system-level work.
 
-- 🔭 I’m currently working on Django, RestAPI to create, maintain and data using apis
-- I am also working with Mysql, python, Jquery.
-  
-- 🌱 I’m currently learning Docker, NoSQL
-- I have Strong Knowledge in Python
-- I am familier with the DataStructures and algorithms in Python,
-- Worked on Mysql, Jquery in a project,
-- Worked on Concepts of OpenVPN
-- I have Knowledge on Django, admin pages and their working and API's creation using Django or RestAPI's
-- I have also worked on the OpenVPN certificate generation and their working.
+💻 Technical Experience & Skills
 
-- Built seperate script for generating custom or static ip/certificate (Ovpn) for user based to restirct or have the benifit of user to have a static ip until the certificate is revoked
-  (used BashScript + python)
+🔭 Currently working with Django and REST APIs to design, develop, and maintain API-driven applications
 
+🐍 Strong proficiency in Python
 
+🧠 Good understanding of Data Structures and Algorithms using Python
+
+🗄️ Hands-on experience with MySQL for database design and querying
+
+🌐 Experience working with jQuery for frontend interactions
+
+🔐 Networking & System Experience
+
+💼 Hands-on experience with OpenVPN in real-world environments
+
+🔑 Worked on OpenVPN certificate generation, management, and lifecycle handling
+
+🛠️ Built custom scripts to generate static IP–based OpenVPN certificates per user
+
+Certificates remain valid until explicitly revoked
+
+Implemented using Bash scripting and Python
+
+🚀 Frameworks & Tools
+
+🧩 Experience with Django Admin and its internal working
+
+🔗 Developed APIs using Django REST Framework
+
+🌱 Learning & Future Goals
+
+🌱 Interested in learning Docker and NoSQL technologies
 
 <!--
 **DevBhargav07/DevBhargav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
