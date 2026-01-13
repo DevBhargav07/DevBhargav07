@@ -22,9 +22,9 @@ I’m Bhargav, a Computer Science Engineer with 1 year of professional experienc
 
 🛠️ Built custom scripts to generate static IP–based OpenVPN certificates per user
 
-Certificates remain valid until explicitly revoked
+    - Certificates remain valid until explicitly revoked
 
-Implemented using Bash scripting and Python
+    - Implemented using Bash scripting and Python
 
 🚀 **Frameworks & Tools**
 
