@@ -2,7 +2,7 @@ Hi there 👋
 
 I’m Bhargav, a Computer Science Engineer with 1 year of professional experience in backend development and system-level work.
 
-💻 Technical Experience & Skills
+💻 **Technical Experience & Skills**
 
 🔭 Currently working with Django and REST APIs to design, develop, and maintain API-driven applications
 
@@ -14,7 +14,7 @@ I’m Bhargav, a Computer Science Engineer with 1 year of professional experienc
 
 🌐 Experience working with jQuery for frontend interactions
 
-🔐 Networking & System Experience
+🔐 **Networking & System Experience**
 
 💼 Hands-on experience with OpenVPN in real-world environments
 
@@ -26,13 +26,13 @@ Certificates remain valid until explicitly revoked
 
 Implemented using Bash scripting and Python
 
-🚀 Frameworks & Tools
+🚀 **Frameworks & Tools**
 
 🧩 Experience with Django Admin and its internal working
 
 🔗 Developed APIs using Django REST Framework
 
-🌱 Learning & Future Goals
+🌱 **Learning & Future Goals**
 
 🌱 Interested in learning Docker and NoSQL technologies
 
