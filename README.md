@@ -12,7 +12,7 @@ I’m Bhargav, a Computer Science Engineer with 1 year of professional experienc
 
 🗄️ Hands-on experience with MySQL for database design and querying
 
-🌐 Experience working with jQuery for frontend interactions
+🌐 Experience working with jQuery for frontend interactions inluding HTML, CSS, Js
 
 🔐 **Networking & System Experience**
 
@@ -31,6 +31,8 @@ I’m Bhargav, a Computer Science Engineer with 1 year of professional experienc
 🧩 Experience with Django Admin and its internal working
 
 🔗 Developed APIs using Django REST Framework
+
+🔗 Deployed A working Project using Nginx and Gunicorn (WSGI) 
 
 🌱 **Learning & Future Goals**
 
