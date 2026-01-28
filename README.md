@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m Bhargav, a Computer Science Engineer with 1 year of professional experience in backend development and system-level work.
+I’m Bhargav, a Computer Science Engineer with 2 years of professional experience in backend development and system-level work.
 
 💻 **Technical Experience & Skills**
 
@@ -32,13 +32,14 @@ I’m Bhargav, a Computer Science Engineer with 1 year of professional experienc
 
 🔗 Developed APIs using Django REST Framework
 
-🔗 Deployed A working Project using Nginx and Gunicorn (WSGI) 
+🧩 Deployed A working Project using Nginx and Gunicorn (WSGI) 
 
 🌱 **Learning & Future Goals**
 
+🌱 Learning about Flask (light-weight flexible web framework of python).
+
 🌱 Interested in learning Docker and NoSQL technologies
 
-🌱 Learning about Working of Flask.
 <!--
 **DevBhargav07/DevBhargav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
