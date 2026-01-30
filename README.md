@@ -40,7 +40,7 @@ I’m Bhargav, a Computer Science Engineer with 2 years of professional experien
 
 🌱 Interested in learning Docker and NoSQL technologies
 
-**Operating systems**
+💻 **Operating systems**
 
 💻 Hands-on-Exprience on working with Linux(Kernel) systems with Ubuntu
 
