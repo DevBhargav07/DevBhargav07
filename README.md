@@ -1,60 +1,53 @@
-Hi there 👋
+## 👋 Hi, I’m Bhargav
 
-I’m Bhargav, a Computer Science Engineer with 2 years of professional experience in backend development and system-level work.
+💻 Backend-focused **Software Engineer** with ~1.6 years of professional experience  
+🐧 Experienced in API development and Linux-based systems  
+⚙️ Interested in building reliable backend services and system-level tooling
 
-💻 **Technical Experience & Skills**
+---
 
-🔭 Currently working with Django and REST APIs to design, develop, and maintain API-driven applications
+## 🛠️ Technical Skills
 
-🐍 Strong proficiency in Python
+### 💻 Backend & APIs
+- 🐍 **Python** — backend development & automation
+- 🌐 **Django** & **Django REST Framework** — RESTful API design
+- 🗄️ **MySQL** — schema design, indexing, and querying
+- 🧠 **Data Structures & Algorithms** using Python
 
-🧠 Good understanding of Data Structures and Algorithms using Python
+---
 
-🗄️ Hands-on experience with MySQL for database design and querying
+### 🔐 Networking & Systems
+- 🔑 Hands-on experience with **OpenVPN** in real-world environments
+- 🛠️ Built automation for:
+  - Static IP–based OpenVPN certificate generation per user
+  - Certificate lifecycle management (generate, validate, revoke)
+- 🧾 Certificates remain valid until explicitly revoked
+- 🐚 Implemented using **Bash scripting** and **Python**
+- 🐧 Worked extensively on Linux networking and security concepts
 
-🌐 Experience working with jQuery for frontend interactions inluding HTML, CSS, Js
+---
 
-🔐 **Networking & System Experience**
+### 🚀 Deployment & Tools
+- ⚙️ **Gunicorn (WSGI)** for Python application serving
+- 🌐 **Nginx** for reverse proxy and deployment
+- 🧩 **Django Admin** — customization and internal workflow understanding
+- 🎨 Basic frontend interaction with **HTML, CSS, JavaScript, and jQuery**
 
-💼 Hands-on experience with OpenVPN in real-world environments
+---
 
-🔑 Worked on OpenVPN certificate generation, management, and lifecycle handling
+## 🖥️ Operating Systems
+- 🐧 **Linux (Ubuntu)** — daily usage
+- 🔧 System-level debugging, scripting, and service configuration
 
-🛠️ Built custom scripts to generate static IP–based OpenVPN certificates per user
+---
 
-    - Certificates remain valid until explicitly revoked
+## 🌱 Currently Learning
+- 🌿 **Flask** — lightweight Python web framework
+- 📦 **Docker** — containerization basics
+- 🧠 **NoSQL databases**
 
-    - Implemented using Bash scripting and Python
+---
 
-🚀 **Frameworks & Tools**
-
-🧩 Experience with Django Admin and its internal working
-
-🔗 Developed APIs using Django REST Framework
-
-🧩 Deployed A working Project using Nginx and Gunicorn (WSGI) 
-
-🌱 **Learning & Future Goals**
-
-🌱 Learning about Flask (light-weight flexible web framework of python).
-
-🌱 Interested in learning Docker and NoSQL technologies
-
-💻 **Operating systems**
-
-💻 Hands-on-Exprience on working with Linux(Kernel) systems with Ubuntu
-
-<!--
-**DevBhargav07/DevBhargav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect
+- 🤝 Open to collaborating on backend, API, and system-level projects
+- 🚀 Interested in backend engineering and infrastructure-adjacent roles
