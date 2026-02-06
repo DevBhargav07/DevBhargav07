@@ -51,3 +51,9 @@
 ## 📫 Let’s Connect
 - 🤝 Open to collaborating on backend, API, and system-level projects
 - 🚀 Interested in backend engineering and infrastructure-adjacent roles
+
+
+### 📫 How to reach me
+* **LinkedIn:** https://www.linkedin.com/in/venkata-bhargav-devarampati-5b3563233/
+* **Email:** bhargavdevarampati24@gmail.com
+  
