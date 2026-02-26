@@ -43,8 +43,7 @@
 
 ## 🌱 Currently Learning
 - 🌿 **Flask** — lightweight Python web framework
-- 📦 **Docker** — containerization basics
-- 🧠 **NoSQL databases**
+- 📦 **Docker** — Learning about the containerization basics
 
 ---
 
