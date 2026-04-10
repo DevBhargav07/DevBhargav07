@@ -41,9 +41,8 @@
 
 ---
 
-## 🌱 Currently Learning
-- 🌿 **Flask** — lightweight Python web framework
-- 📦 **Docker** — Learning about the containerization basics
+## 🌱 Currently L
+- A Beginner Level of Knowledge on Flask, Docker and C++
 
 ---
 
