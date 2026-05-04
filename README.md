@@ -41,7 +41,7 @@
 
 ---
 
-## 🌱 Currently L
+## 🌱 Currently Learning
 - A Beginner Level of Knowledge on Flask, Docker and C++
 
 ---
