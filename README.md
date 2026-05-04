@@ -36,7 +36,7 @@
 ---
 
 ## 🖥️ Operating Systems
-- 🐧 **Linux (Ubuntu)** — daily usage
+- 🐧 **Linux (Ubuntu)**
 - 🔧 System-level debugging, scripting, and service configuration
 
 ---
