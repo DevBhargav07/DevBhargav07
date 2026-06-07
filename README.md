@@ -13,6 +13,7 @@
 - 🌐 **Django** & **Django REST Framework** — RESTful API design
 - 🗄️ **MySQL** — schema design, indexing, and querying
 - 🧠 **Data Structures & Algorithms** using Python
+- 🌐 **Postman** - API Testing
 
 ---
 
