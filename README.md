@@ -10,8 +10,9 @@
 
 ### 💻 Backend & APIs
 - 🐍 **Python** — backend development & automation
-- 🌐 **Django** & **Django REST Framework** — RESTful API design
+- 🌐 **Django** & **Django REST Framework & ORM Queries** — RESTful API design
 - 🗄️ **MySQL** — schema design, indexing, and querying
+- 🗄️ **SQL** — Query Language to communicate with Database
 - 🧠 **Data Structures & Algorithms** using Python
 - 🌐 **Postman** - API Testing
 
