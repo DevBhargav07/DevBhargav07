@@ -47,6 +47,7 @@
 - A Beginner Level of Knowledge on Flask, Docker and C++
 - Started exploring backend development with FastAPI and SQLAlchemy, while learning to implement secure authentication using JWT tokens.
 - Currently learning Machine Learning, Pandas, and NumPy.
+- Learning SQLAlChemy for the backend communication with the database using an ORM.
 
 ---
 
