@@ -14,7 +14,8 @@
 - 🗄️ **MySQL** & **SQL** — schema design, indexing, and querying Language.
 - 🧠 **Data Structures & Algorithms** using Python
 - 🌐 **Postman** - API Testing
-- 🌐 **Websockets** — Long pooling connection from client to server and viceversa. 
+- 🌐 **Websockets** — Long pooling connection from client to server and viceversa.
+- 🌐 **MQTT** — Communication media for telemetry data and low-level communication with security and scalability.(sync & async)
 
 ---
 
