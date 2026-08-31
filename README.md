@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhargav</h1>
+<h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40px" top="10px"/>, I'm Bhargav</h1>
 <h3 align="center">Backend-focused Software Engineer | Django & DRF | IoT Systems</h3>
 
 <p align="center">
