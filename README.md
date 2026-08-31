@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Bhargav
 
-💻 Backend-focused **Software Engineer** with 2 years of professional experience  
+💻 Backend-focused **Software Engineer** with 2+ years of professional experience  
 🐧 Experienced in API development and Linux-based systems  
 ⚙️ Interested in building reliable backend services and system-level tooling
 
