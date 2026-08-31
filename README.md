@@ -23,7 +23,6 @@
 ![MQTT](https://img.shields.io/badge/MQTT-05122A?style=for-the-badge&logo=mqtt&logoColor=660066)
 ![WebSockets](https://img.shields.io/badge/WebSockets-05122A?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=bruno&logoColor=FF6C37)
 
 - 🌐 RESTful API design with **Django REST Framework**, ORM-driven data access
 - 🗄️ **MySQL** — schema design, indexing, and query optimization
