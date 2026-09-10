@@ -27,7 +27,7 @@
 - 🌐 RESTful API design with **Django REST Framework**, ORM-driven data access
 - 🗄️ **MySQL** — schema design, indexing, and query optimization
 - ⏱️ **Celery** — background task processing and scheduled jobs
-- 📡 **MQTT** (paho-mqtt) — telemetry and low-latency device communication, sync & async
+- 📡 **MQTT** (paho-mqtt) — telemetry and low-latency device communication, sync & async.
 - 🔌 **Django Channels / Daphne** — WebSocket connections for real-time client-server communication
 - 🧠 Data Structures & Algorithms in Python
 
