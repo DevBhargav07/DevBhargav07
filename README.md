@@ -56,7 +56,7 @@
 ### 🌱 Currently Learning
 
 - Flask, Docker, and C++ (beginner level)
-- FastAPI + SQLAlchemy, with secure auth via JWT
+- FastAPI + SQLAlchemy + async programming with secure auth via JWT
 - Machine Learning basics — Pandas, NumPy
 
 ---
