@@ -57,7 +57,15 @@
 
 - FastAPI + SQLAlchemy + async programming with secure auth via JWT
 - Flask, Docker, and C++ (beginner level)
-- Machine Learning basics — Pandas, NumPy
+- AI in backend work: using AI tools day to day and learning machine learning fundamentals
+
+---
+
+### 📦 Projects
+
+- 💬 **[Real-time Chat App](https://github.com/DevBhargav07/project)** — FastAPI + React chat with WebSocket delivery, region-based visibility and 24-hour expiring messages, on PostgreSQL
+- 📥 **[VideoAudioDownloader](https://github.com/DevBhargav07/VideoAudioDownloader)** — Flask backend with a plain HTML, CSS and JavaScript frontend
+- 🧩 **[Python-Learning](https://github.com/DevBhargav07/Python-Learning)** — DSA practice and problem-solving log
 
 ---
 
@@ -65,6 +73,7 @@
 
 - 🤝 Open to collaborating on backend, API, and systems-level projects
 - 🚀 Interested in backend engineering and infrastructure-adjacent roles
+- 🌐 Portfolio: [bhargav-portfolio](https://devbhargav07.github.io/bhargav-portfolio/)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/venkata-bhargav-devarampati-5b3563233/" target="_blank">
