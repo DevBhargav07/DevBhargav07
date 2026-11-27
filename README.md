@@ -29,6 +29,7 @@
 - ⏱️ **Celery** — background task processing and scheduled jobs
 - 📡 **MQTT** (paho-mqtt) — telemetry and low-latency device communication, sync & async.
 - 🔌 **Django Channels / Daphne** — WebSocket connections for real-time client-server communication
+- 🗄️ **Supabase** - Cloud Database design and management
 - 🧠 Data Structures & Algorithms in Python
 
 **Deployment & Infrastructure**
@@ -44,7 +45,7 @@
 - 🔑 **OpenVPN** automation — static-IP certificate generation, lifecycle management (generate, validate, revoke) via Bash + Python
 - 🐧 Linux networking, security, and service configuration
 
-**Frontend (basic)**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -55,15 +56,16 @@
 
 ### 🌱 Currently Learning
 
-- FastAPI + SQLAlchemy + async programming with secure auth via JWT
+- FastAPI + SQLAlchemy + async + alembic (for migrations) programming with secure auth via JWT
 - Flask, Docker, and C++ (beginner level)
+- React, Typescript
 - AI in backend work: using AI tools day to day and learning machine learning fundamentals
 
 ---
 
 ### 📦 Projects
 
-- 💬 **[Real-time Chat App](https://github.com/DevBhargav07/project)** — FastAPI + React chat with WebSocket delivery, region-based visibility and 24-hour expiring messages, on PostgreSQL
+- 💬 **[EmberChat](https://github.com/DevBhargav07/)** — FastAPI + React chat with WebSocket delivery, region-based visibility and 24-hour expiring messages, on PostgreSQL
 - 📥 **[VideoAudioDownloader](https://github.com/DevBhargav07/VideoAudioDownloader)** — Flask backend with a plain HTML, CSS and JavaScript frontend
 - 🧩 **[Python-Learning](https://github.com/DevBhargav07/Python-Learning)** — DSA practice and problem-solving log
 
